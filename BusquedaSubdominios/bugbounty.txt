@@ -1,0 +1,4 @@
+http://lp.lime.bike (HTTP 200)
+https://lp.lime.bike (HTTP 200)
+http://assets.lime.bike (HTTP 200)
+https://assets.lime.bike (HTTP 200)
